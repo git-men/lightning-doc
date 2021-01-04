@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[38],{105:function(l){l.exports=JSON.parse('{"allTagsPath":"lightning-doc/blog/tags","slug":"hello","name":"hello","count":1,"permalink":"lightning-doc/blog/tags/hello"}')}}]);
